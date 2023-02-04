@@ -1,0 +1,1 @@
+Application allows children to learn the multiplication table several times more efficiently. The application has a graphical interface using the Tkinter module. The work of the application consists of solving examples from the multiplication table in the first round. The second round includes examples in which a mistake was made.
